@@ -4,6 +4,8 @@
 
 Ce projet sera réalisé dans le cadre de la matière "PAA2" de la troisième année de licence MIAGE.
 
+Ce projet est à rendre pour le 13/03/2023 à 12h30
+
 ## Enoncé et contraintes
 
 Vous avez été missionnés pour réaliser une application de gestion des "choses de la vie courante". De nombreuses personnes peuvent éprouver des difficultés à réaliser certaines tâches de la vie de tous les jours, à mémoriser de nombreux évènements, plusieurs plannings simultanés, etc. Vous proposerez donc une application permettant de faciliter la vie en se comportant comme un "assistant personnel" délestant de la mémoire des utilisateurs les contenus non essentiels pour pouvoir se concentrer sur les choses jugées plus importantes.
